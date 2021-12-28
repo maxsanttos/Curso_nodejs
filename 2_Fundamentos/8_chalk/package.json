@@ -1,0 +1,17 @@
+{
+  "name": "8_chalk",
+  "version": "1.0.0",
+  "description": "melhorando a visualização",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chalk"
+  ],
+  "author": "max",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
+}

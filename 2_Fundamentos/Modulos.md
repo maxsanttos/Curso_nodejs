@@ -21,3 +21,11 @@
 * Para importar vaos utilizar a instrução **require**;
 
 * Vamos criar um módulo!
+
+### Melhorando a visualização
+
+*    Há um módulo externo chamado **Chalk**
+*    Ele pode deixar a **visualização do console** mais agradável;
+*    Fazendo com que seja possível expressar um **feedback com base em coress**;
+
+* Vamos ver na prática!

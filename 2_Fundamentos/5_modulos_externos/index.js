@@ -9,4 +9,4 @@ const profissao = args['profissao']
 
 console.log(nome, profissao)
 
-console.log('O nome dele é ${nome} e a profissão ${profissao}')
+console.log(`O nome dele é ${nome} e a profissão ${profissao}`)
